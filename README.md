@@ -12,4 +12,4 @@ The source code for the entire project is available here.
 # Information for Execution
 
 - To run the notebook, please visit: https://colab.research.google.com/drive/1fSolmXmi22_40DR3pRK0yMnA7H1lovAc?usp=sharing
-- To run the website, please open index.html on any browser, preferably on a desktop browser for better viewing experience of the graphs.
+- To run the website, please open MS-Engage/index.html on any browser, preferably on a desktop browser for better viewing experience of the graphs.
